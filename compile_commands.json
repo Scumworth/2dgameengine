@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/lib/llvm-13/bin/clang",
+      "-c",
+      "-Wall",
+      "-std=c++17",
+      "-I/usr/include/lua5.4",
+      "-I./libs/",
+      "src/Main.cpp",
+      "-o",
+      "gameengine"
+    ],
+    "directory": "/home/scumworth/projects/2dgameengine",
+    "file": "/home/scumworth/projects/2dgameengine/src/Main.cpp",
+    "output": "/home/scumworth/projects/2dgameengine/src/Main.o"
+  }
+]
