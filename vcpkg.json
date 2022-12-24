@@ -1,0 +1,10 @@
+{
+  "name": "gameengine",
+  "version": "0.0.1",
+  "dependencies": [
+    "lua",
+    "glm",
+    "sol",
+    "imgui"
+  ]
+}
