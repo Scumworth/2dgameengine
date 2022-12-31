@@ -4,7 +4,7 @@
   "dependencies": [
     "lua",
     "glm",
-    "sol",
+    "sol2",
     "imgui"
   ]
 }

@@ -1,7 +1,7 @@
 [
 {
   "directory": "/Users/danmcninch/repos/2dgameengine/build",
-  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/gameengine.dir/src/main.cpp.o -c /Users/danmcninch/repos/2dgameengine/src/main.cpp",
+  "command": "/usr/bin/clang++ -DLUA_USE_DLOPEN -I/Users/danmcninch/repos/2dgameengine/src -isystem /Users/danmcninch/repos/2dgameengine/build/vcpkg_installed/arm64-osx/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -std=gnu++11 -o CMakeFiles/gameengine.dir/src/main.cpp.o -c /Users/danmcninch/repos/2dgameengine/src/main.cpp",
   "file": "/Users/danmcninch/repos/2dgameengine/src/main.cpp"
 }
 ]
